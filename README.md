@@ -1,2 +1,14 @@
 # IBook-api
-This project is part of my learning journey, where I explore how to connect a front-end application to an API and manipulate the data. Since my focus is to learn how API integrations work, the front-end and the back-end are simple. The repository will include the  API and I will create one to the front-end separately and link it in the readme. 
+This project is part of my learning journey, where I explore how to connect a front-end application to an API and manipulate the data. Since my focus is to learn how API integrations work, the front-end and the back-end are simple. 
+
+The repository will include the  API and I will create one to the front-end separately and link it in the readme. 
+
+## Build Setup
+
+```bash
+# install dependencies
+$ npm install
+
+# launch server
+$ npm run start
+```
